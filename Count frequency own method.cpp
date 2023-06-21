@@ -4,7 +4,7 @@ int main()
 {
        string s;
        cout<<"Enter the string : ";
-       getline(cin,s);/// Here input can be like this- nn nilos shui bdab
+       getline(cin,s);/// Here input can be like this- nn nilos shui bdab mane majkhane space use kora jabe
        char ch;
        int cnt[26]={0},i;
        int count[26]={0};

@@ -18,10 +18,10 @@ int main()
     {
 
         ch=s[i];
-        if(count[ch-'a']!=0)
+        if(count[ch-'a']!=0) 
         {
             cout<<" Frequency of "<<ch<<" is "<<count[ch-'a']<<endl;
-            count[ch-'a']=0;
+            count[ch-'a']=0;// update frequency of str[i] to 0 so  that the same character is not printed  again
         }
     }
 

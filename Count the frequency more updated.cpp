@@ -40,7 +40,7 @@ int main()
         }
         // Count the frequency of the maximum number
         int frequencyOfMax = 0;
-        for (int i = 0; i < 26; i++)
+        for (int i = 0; i < 26; i++)///aikane 0-26 er age mane i er man 25 prjnto cholbe karon tathei 26 ti letter cover hoi jie
         {
             if (cnt[i] == maxFrequency)
             {

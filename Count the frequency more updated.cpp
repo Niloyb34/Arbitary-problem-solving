@@ -35,7 +35,7 @@ int main()
             if (cnt[i] > maxFrequency)
             {
 
-                maxFrequency = cnt[i];
+                maxFrequency = cnt[i];/// maximum frequency number ta kto mane je character ta maximum ase se maximum number ta kto.
             }
         }
         // Count the frequency of the maximum number
@@ -48,6 +48,6 @@ int main()
             }
         }
         cout << "Maximum frequency: " << maxFrequency << endl;
-        cout << "Frequency of the maximum number: " << frequencyOfMax << endl;
+        cout << "Frequency of the maximum number: " << frequencyOfMax << endl;///mane maximum frequency wala koita unique digit ase
         return 0;
 }

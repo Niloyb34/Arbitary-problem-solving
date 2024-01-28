@@ -1,4 +1,5 @@
-/*Make a system which accepts this kind of pattern of string {0,01,001,00001,000001,....} */
+/*Make a system which accepts this kind of pattern of string {0,01,001,00001,000001,....} 
+Emon ekta string toiri korte hobe jeta shudu 0 thakbe othoba 0 die start hobe and 1 die shesh hobe*/
 #include<bits/stdc++.h>
 using namespace std;
 int main()
